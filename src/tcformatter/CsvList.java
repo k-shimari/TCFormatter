@@ -1,4 +1,4 @@
-package csvformatter;
+package tcformatter;
 
 import java.util.ArrayList;
 import java.util.List;

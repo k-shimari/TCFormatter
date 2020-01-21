@@ -1,4 +1,4 @@
-package csvformatter;
+package tcformatter;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
